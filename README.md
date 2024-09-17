@@ -18,4 +18,4 @@ An education company named X Education sells online courses to industry professi
 - Lead Scores Assignment Subjective Questions.pdf : Some subjective questions answered
 - Lead Score.ppt : Final Presentation
 - Leads.csv : Data worked on
-- Lead Score Case study Summary.pdf : Summary on what's done in the entire py file
+- Lead Score Case study Summary.pdf : Summary on what's done in the entire python file
